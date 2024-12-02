@@ -1,0 +1,8 @@
+#PALO DE CREACIÓN DE ALDEANO
+give @s minecraft:stick[food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:99997},item_name='{"text":"Villager Creator Stick","color":"#F9801D"}',lore=['{"text":"Right click a chest to","italic":false,"color":"gray"}','{"text":"create a villager","italic":false,"color":"gray"}'],custom_data={villager.creator:1b}]
+#PALO DE AÑADIR TRADEO
+give @s minecraft:stick[food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:99997},item_name='{"text":"Add Trade Stick","color":"aqua"}',lore=['{"text":"Right click a chest to add","italic":false,"color":"gray"}','{"text":"its contents as trades to","italic":false,"color":"gray"}','{"text":"the nearest villager","italic":false,"color":"gray"}'],custom_data={add.trade:1b}]
+#PALO DE PROPIEDADES DE ALDEANO
+give @s minecraft:stick[food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:99997},item_name='{"text":"Villager\'s Properties Stick","color":"green"}',lore=['{"text":"Right click a villager to","italic":false,"color":"gray"}','{"text":"modify it\'s properties","italic":false,"color":"gray"}'],custom_data={villager.editor:1b}]
+#PALO BORRADOR DE ALDEANOS
+give @s minecraft:stick[food={nutrition:0,saturation:0,can_always_eat:true,eat_seconds:99997},item_name='{"text":"Villager Eraser Stick","color":"red"}',lore=['{"text":"Right click a villager to","italic":false,"color":"gray"}','{"text":"erase it from existence","italic":false,"color":"gray"}'],custom_data={villager.eraser:1b}]

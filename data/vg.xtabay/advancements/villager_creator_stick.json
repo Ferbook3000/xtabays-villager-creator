@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:any_block_use",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:stick",
+              "components": {
+                "minecraft:custom_data": {
+                  "villager.creator": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "vg.xtabay:villagers/start_villager_creation"
+  }
+}
