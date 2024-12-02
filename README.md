@@ -7,7 +7,7 @@ This datapack will help you create custom villagers very easily.
 USE.
 
 **Villager Creator Stick**  
-Put all the items you want your villager to trade in a chest in this order, from left to right: 1st buy item, 2nd buy item, sell item. This means every 3 slots are used for a single trade row, up to a maximum of 9 trades per chest. Every trade must have this structure: [Required Item] [Required Item](optional) [Offered Item], if they don't have this structure, the items will be ignored and the trade won't be added.  
+Put all the items you want your villager to trade in a chest in this order, from left to right: 1st buy item, 2nd buy item, sell item. This means every 3 slots are used for a single trade row, up to a maximum of 9 trades per chest. Every trade must have this structure: [Required Item] [Required Item]\(optional) [Offered Item], if they don't have this structure, the items will be ignored and the trade won't be added.  
 Once you're done filling a chest with this structure, right click it with a Villager Creator Stick and the villager will be created.  
 All villagers created by Villager Creator have 40 heart containers, are leatherworkers and snow villagers by default. They're also riding a block display so they can't move or be moved.
 
